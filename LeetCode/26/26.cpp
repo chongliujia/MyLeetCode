@@ -1,10 +1,10 @@
-"""
+/*
 Date: 08/11/2020
 author: jiachongliu
 title: 26. Remove Duplicates from Sorted Array
 times: 1
 
-"""
+*/
 class Solution {
 public:
 	int removeDuplicates(vector<int>& nums) {

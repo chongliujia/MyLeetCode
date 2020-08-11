@@ -1,10 +1,10 @@
-"""
+/*
 Date: 08/11/2020
 author: jiachongliu
 title: 162. Find Peak Element
 times: 1
+*/
 
-"""
 class Solution {
 public:
 	int findPeakElement(vector<int>& nums) {
