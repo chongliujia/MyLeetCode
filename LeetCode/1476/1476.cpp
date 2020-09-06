@@ -7,8 +7,6 @@ Times: 1
 
 class Solution {
 public:
-	   vector<vector<int>> rec;
-
 	   SubrectangleQueries(vector<vector<int>>& rectangle) {
 	   	   rec = rectangle;
 	   }
@@ -24,4 +22,7 @@ public:
 	   int getValue(int row, int col) {
 	   	   return rec[row][col];
 	   }
+
+private:
+	   vector<vector<int>> rec;
 };
