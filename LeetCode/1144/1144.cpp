@@ -28,4 +28,4 @@ public:
 
 	   	   return min(nums1, nums2);
 	   }
-}
+};

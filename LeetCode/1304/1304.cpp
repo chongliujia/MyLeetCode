@@ -18,4 +18,4 @@ public:
 	   	   if (res.size() != n) res.push_back(0);
 	   	   return res;
 	   }
-}
+};

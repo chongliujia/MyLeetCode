@@ -17,4 +17,4 @@ public:
 
 		return nums.empty() ? 0 : j + 1;
 	}
-}
+};

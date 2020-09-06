@@ -39,4 +39,4 @@ public:
 
 	   	   return (c1 + c2) * 0.5;
 	   }
-}
+};
